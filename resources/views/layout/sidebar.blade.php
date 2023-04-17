@@ -13,21 +13,21 @@
                                 <a href="#home" class="nav-link current">
                                     <div class="triangle-right"></div>
                                     <i class="fas fa-home nav-icon"></i>
-                                    Quienes Somos
+                                    Acerca
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a href="#gallery" class="nav-link">
                                     <div class="triangle-right"></div>
                                     <i class="fas fa-images nav-icon"></i>
-                                    Nuestro Equipo
+                                    Equipo
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a href="#about" class="nav-link">
                                     <div class="triangle-right"></div>
                                     <i class="fas fa-user-friends nav-icon"></i>
-                                    Que ofrecemos
+                                    Servicios
                                 </a>
                             </li>
                             <li class="nav-item">
@@ -41,13 +41,10 @@
                                 <a href="https://paypal.me/templatemo" class="nav-link external" target="_parent" rel="sponsored">
                                     <div class="triangle-right"></div>
                                     <i class="fas fa-external-link-alt nav-icon"></i>
-                                    External
+                                    Blog
                                 </a>
                             </li>
                         </ul>
                     </div>
-                    <footer class="mb-3 tm-mt-100">
-                        Design: <a href="https://templatemo.com" target="_parent" rel="sponsored">TemplateMo</a>
-                    </footer>
                 </nav>
             </div>

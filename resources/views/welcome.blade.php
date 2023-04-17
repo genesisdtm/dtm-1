@@ -22,60 +22,7 @@ https://templatemo.com/tm-555-upright
 <body>    
     <div class="container-fluid">
         <div class="row">
-            <!-- Leftside bar -->
-            <div id="tm-sidebar" class="tm-sidebar"> 
-                <nav class="tm-nav">
-                    <button class="navbar-toggler" type="button" aria-label="Toggle navigation">
-                        <i class="fas fa-bars"></i>
-                    </button>
-                    <div>
-                        <div class="tm-brand-box">
-                            <img src="img/logo.png" alt="Image"/>
-                        </div>                
-                        <ul id="tm-main-nav">
-                            <li class="nav-item">                                
-                                <a href="#home" class="nav-link current">
-                                    <div class="triangle-right"></div>
-                                    <i class="fas fa-home nav-icon"></i>
-                                    Quienes Somos
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#gallery" class="nav-link">
-                                    <div class="triangle-right"></div>
-                                    <i class="fas fa-images nav-icon"></i>
-                                    Nuestro Equipo
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#about" class="nav-link">
-                                    <div class="triangle-right"></div>
-                                    <i class="fas fa-user-friends nav-icon"></i>
-                                    Que ofrecemos
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#contact" class="nav-link">
-                                    <div class="triangle-right"></div>
-                                    <i class="fas fa-envelope nav-icon"></i>
-                                    Contactanos
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="https://paypal.me/templatemo" class="nav-link external" target="_parent" rel="sponsored">
-                                    <div class="triangle-right"></div>
-                                    <i class="fas fa-external-link-alt nav-icon"></i>
-                                    External
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <footer class="mb-3 tm-mt-100">
-                        Design: <a href="https://templatemo.com" target="_parent" rel="sponsored">TemplateMo</a>
-                    </footer>
-                </nav>
-            </div>
-            
+        @include('layout.sidebar')
             <div class="tm-main">
                 <!-- Home section -->
                 <div class="tm-section-wrap">
@@ -86,30 +33,23 @@ https://templatemo.com/tm-555-upright
                         <div class="row">
                             <div class="col-lg-6 tm-col-home mb-4">
                                 <div class="tm-text-container">
-                                    <div class="tm-icon-container mb-5 mr-0 ml-auto">
-                                        <i class="fas fa-satellite-dish fa-4x tm-text-primary"></i>
-                                    </div>                                
+                                <img src="img/mision-vision.png" alt="Image"/>                             
                                     <p>
-                                        Leftmost column is placed for logo and main menu.
-                                        After that is an image column. Right side column 
-                                        is a 100% full-width content.
-                                    </p>
-                                    <p>
-                                        Right side can put many contents and it will
-                                        scroll up / down. Left side is fixed. Parallax
-                                        Image changes for different pages.
+                                    Somos un Departamento Académico encargado en la formación  
+                                    de profesionales universitarios, en el área de Tecnologia de Materiales,
+                                    preparados para intervenir en todo proceso de producción y desarrollo de 
+                                    materiales para la industria del sector transporte, petrolero, químico, 
+                                    alimentos, manufactura, eléctrico, o cualquier otro sector estratégico del país
                                     </p>
                                 </div>                                
                             </div>
                             <div class="col-lg-6 tm-col-home mb-4">
-                                <div class="tm-text-container">
-                                    <div class="tm-icon-container mb-5 mr-0 ml-auto">
-                                        <i class="fas fa-broadcast-tower fa-4x tm-text-primary"></i>
-                                    </div>                                 
+                                <div class="tm-text-container">                                 
                                     <p>
-                                        Quisque tincidunt, sem rutrum euismod ornare, tortor arcu tempus 
-                                        lorem, accumsan suscipit mauris lorem at lorem. Praesent feugiat 
-                                        mi at tortor tincidunt, ac consequat ante cursus.
+                                    Llegar a ser referencia nacional e internacional en la formación de profesionales 
+                                    universitarios en el área de Tecnología de Materiales, con  destrezas y habilidades 
+                                    que le permitan ser  competitivos, integrales, con un alto grado de sensibilidad social, 
+                                    críticos y valores eticos propios del ejercicio de la profesión.
                                     </p>
                                     <div class="text-right">
                                         <a href="#gallery" class="btn btn-primary tm-btn-next">Next Page</a>
