@@ -6,7 +6,7 @@
                     </button>
                     <div>
                         <div class="tm-brand-box">
-                            <img src="img/logo.png" alt="Image"/>
+                            <img src="img/logo1.jpg" alt="Image"/>
                         </div>                
                         <ul id="tm-main-nav">
                             <li class="nav-item">                                
@@ -38,7 +38,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="https://paypal.me/templatemo" class="nav-link external" target="_parent" rel="sponsored">
+                                <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://metalografiaactiva.wordpress.com/author/metalografiaactiva/&ved=2ahUKEwjszO2AwJv-AhUdQzABHeJvC9MQFnoECA0QAQ&usg=AOvVaw2NxvJzIGetb6599eClpwfR" class="nav-link external" target="_parent" rel="sponsored">
                                     <div class="triangle-right"></div>
                                     <i class="fas fa-external-link-alt nav-icon"></i>
                                     Blog
