@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Upright</title>
+    <title>DTM</title>
     <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/specimen/Kumbh+Sans -->
     <link rel="stylesheet" href="fontawesome/css/all.min.css">  <!-- https://fontawesome.com/-->  
     <link rel="stylesheet" href="css/magnific-popup.css">       <!-- https://dimsemenov.com/plugins/magnific-popup/ -->
     <link rel="stylesheet" href="css/bootstrap.min.css">        <!-- https://getbootstrap.com/ -->
     <link rel="stylesheet" href="slick/slick.min.css">          <!-- https://kenwheeler.github.io/slick/ -->
     <link rel="stylesheet" href="slick/slick-theme.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
     <link rel="stylesheet" href="css/templatemo-upright.css">
 <!--
     
@@ -29,7 +30,7 @@ https://templatemo.com/tm-555-upright
                     <div class="tm-parallax" data-parallax="scroll" data-image-src="img/img-01.jpg"></div>                   
                     <section id="home" class="tm-section">
                         <img src="img/cintillo.png" alt="Image"/>
-                        <hr class="mb-5">
+                        <hr class="mb-5">  
                         <div class="row">
                             <div class="col-lg-6 tm-col-home mb-4">
                                 <div class="tm-text-container">
@@ -60,7 +61,7 @@ https://templatemo.com/tm-555-upright
                         <hr class="tm-hr-short mb-5">
                         <div class="row tm-row-home">                            
                             <div class="tm-col-home tm-col-home-l">
-                            <iframe src="video/video1.mp4" width="560" height="315" frameborder="0" allowfullscreen></iframe> 
+                            <iframe src="video/video2.mp4" width="560" height="315" frameborder="0" allowfullscreen></iframe> 
                                 <div class="media mb-4">
                                     <i class="fas fa-scroll fa-4x tm-post-icon tm-text-primary"></i>
                                     <div class="media-body">

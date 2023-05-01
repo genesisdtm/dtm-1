@@ -7,7 +7,12 @@
                     <div>
                         <div class="tm-brand-box">
                             <img src="img/logo1.jpg" alt="Image"/>
-                        </div>                
+                        </div>  
+                        <ul class="tm-contact-social">
+                        <li><img src="img/siguenos.png"/></a></li>
+                                    <li><a href="https://instagram.com/materiales_unetrans?igshid=YmMyMTA2M2Y=" class="tm-social-link"><img src="img/instagram.png"/></a></li>
+                                    <li><a href="https://www.youtube.com/channel/UC5p7FVrKaqyx6TiMkMbd5WQ" class="tm-social-link"><img src="img/youtube.png"/></i></a></li>
+                                </ul>           
                         <ul id="tm-main-nav">
                             <li class="nav-item">                                
                                 <a href="#home" class="nav-link current">
